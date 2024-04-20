@@ -71,7 +71,7 @@ body{
 }
 .channel-picture img{
     border-radius: 50%;
-    height: 45px;  
+    height: 35px;  
 }
 .video-title,.channel-name,.views-time{
     margin-top: 0;
