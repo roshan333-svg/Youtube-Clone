@@ -27,6 +27,14 @@ body{
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     }
+    a {
+        text-decoration: none; /* Keeps the text without underline */
+    }
+    
+    .video-title, .channel-name, .views-time {
+        color: white; /* Sets the text color to blue */
+    }
+    
 .video {
     width: 100%;
     display: grid;
